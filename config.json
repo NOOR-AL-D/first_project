@@ -1,0 +1,7 @@
+{
+    "apis": [ 
+        "https://api.github.com",
+        "https://api.google.com"
+            ],
+    "log_file": "logs/log.txt"
+}
